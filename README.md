@@ -2,7 +2,7 @@
 
 ## Description
 
-This package offers a concise introduction to Node.js, focusing only on the essential concepts and skills. It covers the fundamental topics necessary for understanding and practicing (or reviewing) Node.js, including:
+This package offers a concise introduction to Node.js (using JupyterLab), focusing only on the essential concepts and skills. It covers the fundamental topics necessary for understanding and practicing (or reviewing) Node.js, including:
 
 - Declaring Variables and Working with Functions
 - Loops and Branching
