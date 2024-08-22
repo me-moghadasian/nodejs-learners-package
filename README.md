@@ -76,7 +76,7 @@ To get started with this package, follow these steps:
 
 ## Note
 
-This package is still under development. New features and improvements will be added over time.
+This package is still under development. New features and improvements will be added over time. you might need to run `npm install` periodically.
 
 ## License
 
