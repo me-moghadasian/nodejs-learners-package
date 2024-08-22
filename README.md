@@ -28,32 +28,44 @@ This package is designed for learners who want to understand and practice variou
 
 To get started with this package, follow these steps:
 
-1. Clone the repository:
+1. **Install Node.js**:
+   - Ensure you have [Node.js](https://nodejs.org/) installed. This is required for running JavaScript on the server side and for certain functionalities in this package.
+
+2. **Install the Node.js Jupyter Kernel**:
+   - You need the [IJavascript kernel](https://github.com/n-riesco/ijavascript) for Jupyter to run JavaScript code. You can install it using the following commands:
+     ```bash
+     npm install -g ijavascript
+     ijsinstall
+     ```
+
+3. **Clone the Repository**:
     ```bash
     git clone https://github.com/me-moghadasian/nodejs-learners-package.git
     ```
 
-2. Navigate into the project directory:
+4. **Navigate into the Project Directory**:
     ```bash
     cd nodejs-learners-package
     ```
 
-3. Install the dependencies:
+5. **Install Project Dependencies**:
     ```bash
     npm install
     ```
 
-4. Use JupyterLab to explore the content. If you don't have JupyterLab installed, you'll need Python and JupyterLab. You can install JupyterLab using:
+6. **Install JupyterLab** (if not already installed):
+   - If you don't have JupyterLab installed, you'll need Python and JupyterLab. You can install JupyterLab using:
     ```bash
     pip install jupyterlab
     ```
 
-5. Start JupyterLab:
+7. **Start JupyterLab**:
     ```bash
     jupyter lab
     ```
 
-6. Open and explore the notebooks and scripts provided in the package using JupyterLab.
+8. **Open and Explore the Notebooks and Scripts**:
+   - Use JupyterLab to open and explore the notebooks and scripts provided in the package.
 
 ## Note
 
