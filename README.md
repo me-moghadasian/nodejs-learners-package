@@ -1,4 +1,4 @@
-# Node.js Learner Package
+# Node.js Learners Package
 
 ## Description
 
