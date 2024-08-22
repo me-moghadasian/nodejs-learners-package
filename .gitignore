@@ -134,3 +134,6 @@ dist
 
 # Ignore downloads content
 downloads/*
+
+# Ignore downloads content
+http-server-uploads/*
