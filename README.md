@@ -32,7 +32,7 @@ This package offers a concise introduction to Node.js, focusing only on the esse
 To get started with this package, follow these steps:
 
 1. **Install Node.js**:
-   - Ensure you have [Node.js](https://nodejs.org/) installed. This is required for running JavaScript on the server side and for certain functionalities in this package.
+   - Ensure you have [Node.js](https://nodejs.org/) installed. This is required for running Node.js apps in this package.
 
 2. **Install the Node.js Jupyter Kernel**:
    - You need the [IJavascript kernel](https://github.com/n-riesco/ijavascript) for Jupyter to run JavaScript code. You can install it using the following commands:
