@@ -16,7 +16,7 @@ This package offers a concise introduction to Node.js (using JupyterLab), focusi
 
 ## Active Development
 
-Please note that this package is actively being modified and updated. We are continuously working to improve and expand the content based on feedback and new developments in Node.js. New features, topics, and enhancements will be added over time, so check back frequently for updates.
+Please note that this package is actively being modified and updated. We are continuously working to improve and expand the content based on feedback and new developments in Node.js. New features, topics, and enhancements will be added over time. To ensure you have the latest dependencies and updates, you might need to run `npm install` periodically.
 
 ## Features
 
