@@ -132,8 +132,5 @@ dist
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore everything in the downloads folder
+# Ignore downloads content
 downloads/*
-
-# Except the folder itself
-!downloads/
