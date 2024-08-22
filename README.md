@@ -2,27 +2,30 @@
 
 ## Description
 
-This package is designed for learners who want to understand and practice various aspects of Node.js. It covers fundamental topics including:
+This package offers a concise introduction to Node.js, focusing only on the essential concepts and skills. It covers the fundamental topics necessary for understanding and practicing (or reviewing) Node.js, including:
 
-- Declaring Variables
+- Declaring Variables and Working with Functions
 - Loops and Branching
 - JSON Handling
 - Collections (Arrays, Maps, and Sets)
 - Working with Files
+- Async-await, Promise and Events
 - HTTP Connections
-- Express Framework
 - MongoDB and Mongoose
+- Express Framework
+
 
 ## Features
 
-- **Variables**: Learn how to declare and use variables in Node.js.
+- **Variables and Functions**: Learn how to create and use variables and functions in Node.js.
 - **Loops and Branching**: Understand different looping constructs and conditional statements.
 - **JSON**: Work with JSON data, including parsing and stringifying JSON.
 - **Collections**: Explore arrays, maps, and sets, and how to manipulate them.
 - **File Handling**: Read from and write to files using Node.js.
+- **Async-await, Promise and Events**: Learn how to do asynchronous operations with async-await, promise and events.
 - **HTTP Connections**: Create basic HTTP servers and handle requests and responses.
-- **Express**: Build web applications using the Express framework.
 - **MongoDB and Mongoose**: Connect to a MongoDB database and perform CRUD operations using Mongoose.
+- **Express**: Build web applications using the Express framework.
 
 ## Installation
 
@@ -49,22 +52,23 @@ To get started with this package, follow these steps:
     ```
 
 5. **Install Project Dependencies**:
+    - Install MongoDB too when you want to try MongoDB related sections.
     ```bash
     npm install
     ```
 
-6. **Install JupyterLab** (if not already installed):
+7. **Install JupyterLab** (if not already installed):
    - If you don't have JupyterLab installed, you'll need Python and JupyterLab. You can install JupyterLab using:
     ```bash
     pip install jupyterlab
     ```
 
-7. **Start JupyterLab**:
+8. **Start JupyterLab**:
     ```bash
     jupyter lab
     ```
 
-8. **Open and Explore the Notebooks and Scripts**:
+9. **Open and Explore the Notebooks and Scripts**:
    - Use JupyterLab to open and explore the notebooks and scripts provided in the package.
 
 ## Note
