@@ -137,3 +137,4 @@ downloads/*
 
 # Ignore downloads content
 http-server-uploads/*
+express-server-uploads/*
