@@ -6,7 +6,7 @@ This package offers a concise introduction to Node.js (using JupyterLab), focusi
 
 - [Introduction](01-intro.ipynb) 
 - [JSON Handling](02-objects.ipynb) 
-- [Working with Arrays](03-objects.ipynb) 
+- [Working with Arrays](03-arrays.ipynb) 
 - [Working with Maps](04-maps.ipynb)
 - [Working with Sets](05-sets.ipynb)
 - [Functions](06-functions.ipynb)
