@@ -37,7 +37,7 @@ Please note that this package is *actively being modified and updated*. We are c
 - **Fetch and Axios**: Learn how to use *fetch* and *axios* to send request.
 - **HTTP Connections**: Create basic HTTP servers and handle requests and responses.
 - **MongoDB and Mongoose**: Connect to a [MongoDB](https://www.mongodb.com) database and perform CRUD operations using [Mongoose](https://www.mongoosejs.com).
-- **Express**: Build simple with *RESTfull* api *authentioncation-authorization* using the [Express framework](https://www.expressjs.com).
+- **Express**: Build simple *RESTfull* API with *authentioncation-authorization*, *files upload-download*,... using the [Express framework](https://www.expressjs.com).
 - **And More...**
 
 ## Installation
