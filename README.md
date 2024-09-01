@@ -20,7 +20,7 @@ This package offers a concise introduction to Node.js (using JupyterLab), focusi
 
 ## Who should use this?
 
-This project is designed for **intermediate-level** developers who are looking to deepen their understanding of *core concepts* in [Node.js](https://nodejs.org/) and [JS](https://javascript.com/). It is particularly beneficial for those who want to expand their knowledge, **review general principles**, or gain a broader perspective on [Node.js](https://nodejs.org/) and [JS](https://javascript.com/). If you are an **expert** in this field, you might find the material **NOT** directly applicable to advanced scenarios. However, if you are eager to refresh your foundational skills or explore different approaches, this resource may still offer valuable insights
+This project is designed for **intermediate-level** developers who are looking to deepen their understanding of *core concepts* in [Node.js](https://nodejs.org/) and [JS](https://javascript.com/). It is particularly beneficial for those who want to expand their knowledge, **review general principles**, or gain a broader perspective on [Node.js](https://nodejs.org/) and [JS](https://javascript.com/). If you are an **expert** in this field, you might find the material **NOT** directly applicable to advanced scenarios. However, if you are eager to refresh your foundational skills or explore different approaches, this resource may still offer valuable insights.
 
 ## Active Development
 
