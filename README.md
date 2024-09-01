@@ -4,31 +4,41 @@
 
 This package offers a concise introduction to Node.js (using JupyterLab), focusing only on the essential concepts and skills. It covers the fundamental topics necessary for understanding and practicing (or reviewing) Node.js, including:
 
-- Declaring Variables and Working with Functions
-- Loops and Branching
-- JSON Handling
-- Collections (Arrays, Maps, and Sets)
-- Working with Files
-- Async-await, Promise and Events
-- HTTP Connections
-- MongoDB and Mongoose
-- Express Framework
+- [Introduction](01-intro.ipynb) 
+- [JSON Handling](02-objects.ipynb) 
+- [Working with Arrays](03-objects.ipynb) 
+- [Working with Maps](04-maps.ipynb)
+- [Working with Sets](05-sets.ipynb)
+- [Functions](06-functions.ipynb)
+- [Files Operations](07-files.ipynb)
+- [Async-await, Promise and Events](08-asyncs.ipynb)
+- [Simple HTTP server](09-http-server.ipynb) + [helper client](09-http-client.ipynb)
+- [MongoDB](10-mongodb.ipynb) 
+- [Mongoose](11-mongoose.ipynb)
+- [RESTful API using Express](12-express-server.ipynb) + [helper client](12-express-client.ipynb)
+
+
+## Who should use this?
+
+This project is designed for **intermediate-level** developers who are looking to deepen their understanding of *core concepts* in [Node.js](https://nodejs.org/) and [JS](https://javascript.com/). It is particularly beneficial for those who want to expand their knowledge, **review general principles**, or gain a broader perspective on [Node.js](https://nodejs.org/) and [JS](https://javascript.com/). If you are an **expert** in this field, you might find the material **NOT** directly applicable to advanced scenarios. However, if you are eager to refresh your foundational skills or explore different approaches, this resource may still offer valuable insights
 
 ## Active Development
 
-Please note that this package is actively being modified and updated. We are continuously working to improve and expand the content based on feedback and new developments in Node.js. New features, topics, and enhancements will be added over time. To ensure you have the latest dependencies and updates, you might need to run `npm install` periodically.
+Please note that this package is *actively being modified and updated*. We are continuously working to improve and expand the content based on feedback and new developments in [Node.js](https://nodejs.org/). New features, topics, and enhancements will be added over time. To ensure you have the *latest dependencies and updates*, you might need to run `npm install` periodically.
 
 ## Features
 
-- **Variables and Functions**: Learn how to create and use variables and functions in Node.js.
+- **Variables and Functions**: Learn how to create and use *variables*, *functions* and *lambdas*.
 - **Loops and Branching**: Understand different looping constructs and conditional statements.
-- **JSON**: Work with JSON data, including parsing and stringifying JSON.
-- **Collections**: Explore arrays, maps, and sets, and how to manipulate them.
-- **File Handling**: Read from and write to files using Node.js.
-- **Async-await, Promise and Events**: Learn how to do asynchronous operations with async-await, promise and events.
+- **JSON**: Work with *JSON* data, including parsing and stringifying *JSON*.
+- **Collections**: Explore *arrays*, *maps*, and *sets*, and how to manipulate them.
+- **File Handling**: Read from and write to files.
+- **Async-await, Promise and Events**: Learn how to do *asynchronous* operations with *async-await*, *promise* and *events*.
+- **Fetch and Axios**: Learn how to use *fetch* and *axios* to send request.
 - **HTTP Connections**: Create basic HTTP servers and handle requests and responses.
-- **MongoDB and Mongoose**: Connect to a MongoDB database and perform CRUD operations using Mongoose.
-- **Express**: Build web applications using the Express framework.
+- **MongoDB and Mongoose**: Connect to a [MongoDB](https://www.mongodb.com) database and perform CRUD operations using [Mongoose](https://www.mongoosejs.com).
+- **Express**: Build simple with *RESTfull* api *authentioncation-authorization* using the [Express framework](https://www.expressjs.com).
+- **And More...**
 
 ## Installation
 
