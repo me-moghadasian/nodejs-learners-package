@@ -44,43 +44,45 @@ Please note that this package is *actively being modified and updated*. We are c
 
 To get started with this package, follow these steps:
 
-1. **Install Node.js**:
+1. **Install Python** (if not already installed):
+    - Refer to [Python](https://www.python.org/downloads/) to download and install python.
+
+2. **Install JupyterLab** (if not already installed):
+   - If you don't have JupyterLab installed, you'll need Python and JupyterLab. You can install JupyterLab using:
+    ```bash
+    pip install jupyterlab
+    ```
+    
+3. **Install Node.js**:
    - Ensure you have [Node.js](https://nodejs.org/) installed. This is required for running Node.js apps in this package.
 
-2. **Install the Node.js Jupyter Kernel**:
+4. **Install the Node.js Jupyter Kernel**:
    - You need the [IJavascript kernel](https://github.com/n-riesco/ijavascript) for Jupyter to run JavaScript code. You can install it using the following commands:
      ```bash
      npm install -g ijavascript
      ijsinstall
      ```
 
-3. **Clone the Repository**:
+5. **Clone the Repository**:
     ```bash
     git clone https://github.com/me-moghadasian/nodejs-learners-package.git
     ```
 
-4. **Navigate into the Project Directory**:
+6. **Navigate into the Project Directory**:
     ```bash
     cd nodejs-learners-package
     ```
 
-5. **Install Project Dependencies**:
+7. **Install Project Dependencies**:
     - Install MongoDB too when you want to try MongoDB related sections.
     ```bash
     npm install
     ```
-
-7. **Install JupyterLab** (if not already installed):
-   - If you don't have JupyterLab installed, you'll need Python and JupyterLab. You can install JupyterLab using:
-    ```bash
-    pip install jupyterlab
-    ```
-
 8. **Start JupyterLab**:
     ```bash
     jupyter lab
     ```
-
+    
 9. **Open and Explore the Notebooks and Scripts**:
    - Use JupyterLab to open and explore the notebooks and scripts provided in the package.
 
