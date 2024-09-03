@@ -90,6 +90,13 @@ To get started with this package, follow these steps:
 
 This package is still under development. New features and improvements will be added over time. you might need to run `npm install` periodically.
 
+## Useful References
+
+ - [Node.js Tutorialpoint](https://www.tutorialspoint.com/nodejs/index.htm)
+ - [Node.js W3Schools](https://www.w3schools.com/nodejs/)
+ - [Developing Back-End Apps with Node.js and Express](https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
