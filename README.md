@@ -24,7 +24,7 @@ This project is designed for **intermediate-level** developers who are looking t
 
 ## Active Development
 
-Please note that this package is *actively being modified and updated*. We are continuously working to improve and expand the content based on feedback and new developments in [Node.js](https://nodejs.org/). New features, topics, and enhancements will be added over time. To ensure you have the *latest dependencies and updates*, you might need to run `npm install` periodically.
+Please note that this package is still *being modified and updated*. We are continuously working to improve and expand the content based on feedback and new developments in [Node.js](https://nodejs.org/). New features, topics, and enhancements will be added over time. To ensure you have the *latest dependencies and updates*, you might need to run `npm install` periodically.
 
 ## Features
 
